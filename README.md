@@ -1,4 +1,4 @@
-# gscwizard-com
+# GSC Wizard
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-gscwizard-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gscwizard.com/
+GSC Wizard provides powerful SEO analytics, forecasting, and content optimization tools built on Google Search Console data, with integrated Google Analytics 4 reports. The platform offers comprehensive FAQs covering indexing, CTR, keyword research, Core Web Vitals, and more, helping marketers and analysts turn search console data into growth insights.
+
+**Areas:** SEO · Analytics · Data · Growth · Marketing
+
+## GSC Wizard on APIs.io
+
+Everything profiled for GSC Wizard is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gscwizard-com/](https://apis.io/providers/gscwizard-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [GSC Wizard REST API](https://apis.io/apis/gscwizard-com/gsc-wizard-rest-api/) — Read Google Search Console and GA4 data for the connected account.
+- [GSC Wizard REST API API](https://apis.io/apis/gscwizard-com/gsc-wizard-rest-api-api/) — Read Google Search Console and GA4 data for the connected account. Authenticate with a `gscw_live_...` API key from the GSC Wizard app (Account -> API keys)…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Gscwizard Com Webhooks](https://apis.io/asyncapis/gscwizard-com/gscwizard-com-webhooks/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gscwizard Com Context](https://apis.io/jsonld/gscwizard-com/gscwizard-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [GSC Wizard API Rules](https://apis.io/rules/gscwizard-com/gscwizard-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [GSC Wizard Authentication](https://apis.io/security/gscwizard-com/gscwizard-com-authentication/)
+- [GSC Wizard Domain Security](https://apis.io/security/gscwizard-com/gscwizard-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [GSC Wizard Plans Pricing](https://apis.io/plans/gscwizard-com/gscwizard-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.gscwizard.com/)
+- [Documentation](https://www.gscwizard.com/docs.html)
+- [Getting started](https://www.gscwizard.com/docs/mcp-and-chatgpt.html)
+- [API reference](https://www.gscwizard.com/openapi.json)
+- [Pricing](https://www.gscwizard.com/pricing.html)
+- [Terms of service](https://www.gscwizard.com/terms.html)
+- [Privacy policy](https://www.gscwizard.com/privacy.html)
+- [Status](https://status.gscwizard.com/)
+
+## API Evangelist rating
+
+**Kin Score 54.7** — strong · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 45.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 73.2 |
+
+**Agent readiness 42.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gscwizard-com/](https://apis.io/providers/gscwizard-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GSC Wizard: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gscwizard-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
